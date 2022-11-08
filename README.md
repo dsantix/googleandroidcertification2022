@@ -25,3 +25,4 @@ Use this study guide to prepare for the Google Associate Android Developer Certi
 - [Room with Coroutines and Espresso unit test](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#15)
 - [Unit tests](https://developer.android.com/codelabs/android-training-unit-tests#0)
 - [Design Patterns](https://www.kodeco.com/18409174-common-design-patterns-and-app-architectures-for-android#toc-anchor-001)
+- [Injeção de dependências](https://developer.android.com/training/dependency-injection?hl=pt-br)
