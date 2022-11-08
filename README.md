@@ -16,4 +16,11 @@ Use this study guide to prepare for the Google Associate Android Developer Certi
 
 # Extras
 
-- [DI,Dagger e Koin](https://medium.com/@androidcng/dagger-android-tudo-que-você-precisa-entender-em-português-144cc229264d)
+- [DI,Dagger e Koin] Criar o meu artigo 
+
+- [Arquitetura de app recomendada](https://developer.android.com/topic/architecture#recommended-app-arch)
+- [Repository](https://developer.android.com/codelabs/kotlin-android-training-repository#0)
+- [Espresso for UI testing](https://developer.android.com/codelabs/android-training-espresso-for-ui-testing#0)
+- [Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics#0)
+- [Room with Coroutines and Espresso unit test](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#15)
+- [Unit tests](https://developer.android.com/codelabs/android-training-unit-tests#0)
