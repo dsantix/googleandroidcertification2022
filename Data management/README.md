@@ -1,13 +1,13 @@
-Entender a arquitetura do sistema Android
+- Entender como definir dados usando entidades Room
 
-Explicar os elementos básicos de um app Android
+- Ser capaz de acessar Roombanco de dados com objeto de acesso a dados (DAO)
 
-Saber criar e executar um app Android
+- Saber como observar e responder a mudanças de dados usando LiveData
 
-Mostre mensagens simples em um pop-up usando Toast ou Snackbar.
+- Entenda como usar um Repositório para mediar operações de dados
 
-Capacidade de exibir uma mensagem fora da IU do app usando Notifications
+- Ser capaz de ler e analisar recursos brutos ou arquivos de ativos
 
-Entender como localizar um app
+- Ser capaz de criar dados de preferência persistentes a partir da entrada do usuário
 
-Programar uma tarefa em segundo plano usando WorkManager
+- Entenda como alterar o comportamento do aplicativo com base nas preferências do usuário

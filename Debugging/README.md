@@ -1,13 +1,9 @@
-Entender a arquitetura do sistema Android
+- Entender as técnicas básicas de depuração disponíveis no Android Studio
 
-Explicar os elementos básicos de um app Android
+- Saber como depurar e melhorar o comportamento funcional e a usabilidade de um app
 
-Saber criar e executar um app Android
+- Saber usar o Registro do sistema para gerar informações de depuração
 
-Mostre mensagens simples em um pop-up usando Toast ou Snackbar.
+- Entender como usar pontos de interrupção no Android Studio.
 
-Capacidade de exibir uma mensagem fora da IU do app usando Notifications
-
-Entender como localizar um app
-
-Programar uma tarefa em segundo plano usando WorkManager
+- Saber como controlar variáveis ​​usando o Android Studio

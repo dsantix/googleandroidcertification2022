@@ -1,13 +1,21 @@
-Entender a arquitetura do sistema Android
+- Entenda o ciclo de vida da atividade do Android
 
-Explicar os elementos básicos de um app Android
+- Ser capaz de criar um Activityque exiba umLayout
 
-Saber criar e executar um app Android
+- Ser capaz de construir uma interface do usuário comConstraintLayout
 
-Mostre mensagens simples em um pop-up usando Toast ou Snackbar.
+- Entenda como criar uma Viewclasse personalizada e adicioná-la a umLayout
 
-Capacidade de exibir uma mensagem fora da IU do app usando Notifications
+- Saiba como implementar um tema de aplicativo personalizado
 
-Entender como localizar um app
+- Ser capaz de adicionar ganchos de acessibilidade a umView
 
-Programar uma tarefa em segundo plano usando WorkManager
+- Saiba como aplicar descrições de conteúdo a visualizações para acessibilidade
+
+- Entenda como exibir itens em um RecyclerView
+
+- Ser capaz de vincular dados locais a uma RecyclerViewlista usando a biblioteca Paging
+
+- Saiba como implementar a navegação baseada em menus
+
+- Entenda como implementar a navegação de gaveta

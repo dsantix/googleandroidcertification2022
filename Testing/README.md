@@ -1,13 +1,7 @@
-Entender a arquitetura do sistema Android
+- Compreender completamente os conceitos básicos dos testes
 
-Explicar os elementos básicos de um app Android
+- Capacidade de escrever testes locais úteis do JUnit
 
-Saber criar e executar um app Android
+- Entender o framework de teste da IU do Espresso
 
-Mostre mensagens simples em um pop-up usando Toast ou Snackbar.
-
-Capacidade de exibir uma mensagem fora da IU do app usando Notifications
-
-Entender como localizar um app
-
-Programar uma tarefa em segundo plano usando WorkManager
+- Saber como criar testes úteis para Android automatizados.
