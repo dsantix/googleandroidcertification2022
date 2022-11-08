@@ -15,3 +15,5 @@ Use this study guide to prepare for the Google Associate Android Developer Certi
 - [Testing](https://developers.google.com/certification/associate-android-developer/study-guide/testing)
 
 # Extras
+
+- [DI,Dagger e Koin](https://medium.com/@androidcng/dagger-android-tudo-que-você-precisa-entender-em-português-144cc229264d)
