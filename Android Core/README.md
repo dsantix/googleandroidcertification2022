@@ -6,7 +6,7 @@
 
 - Mostre mensagens simples em um pop-up usando Toast ou Snackbar. - OK
 
-- Capacidade de exibir uma mensagem fora da IU do app usando Notifications
+- Capacidade de exibir uma mensagem fora da IU do app usando Notifications - OK
 
 - Entender como localizar um app
 
