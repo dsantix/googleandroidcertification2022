@@ -41,16 +41,6 @@ fun Context.notification(channelId: String, block: (NotificationCompat.Builder.(
 val Context.notificationManager: NotificationManager
     get() = getSystemService()!!
 
-fun buildNotificationChannelGroup(
-    channelId: String,
-    block: (NotificationChannelGroupCompat.Builder.() -> Unit),
-): NotificationChannelGroupCompat {
-    val builder = NotificationChannelGroupCompat.Builder(channelId)
-    builder.block()
-    return builder.build()
-}
-
-
 fun buildNotificationChannel(
     channelId: String,
     channelImportance: Int,
