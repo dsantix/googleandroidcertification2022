@@ -8,8 +8,8 @@ import dsanti.digital.googlecertification.R
 object Notifications {
 
     const val CANAL_COMUM = "canal_comum"
-    const val GRUPO_COMUM = "grupo_comum"
-
+    const val CANAL_DOWNLOAD = "canal_download"
+    const val DOWNLOAD_ID = 102
     const val COMUM_ID = 101
 
 
@@ -20,6 +20,9 @@ object Notifications {
             listOf(
                 buildNotificationChannel(CANAL_COMUM, IMPORTANCE_DEFAULT) {
                     setName(ctx.getString(R.string.canal_comum))
+                },
+                buildNotificationChannel(CANAL_DOWNLOAD, IMPORTANCE_DEFAULT) {
+                    setName(ctx.getString(R.string.canal_download))
                 }
             )
         )

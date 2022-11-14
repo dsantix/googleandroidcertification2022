@@ -6,4 +6,6 @@
     <string name="arapiraca">Arapiraca</string>
     <string name="txtCidadeDescricao">Arapiraca é um município brasileiro no estado de Alagoas, Região Nordeste do país. Localiza-se no Agreste alagoano e pertence à Região Metropolitana do Agreste, estando situado a cerca de 130 km a oeste da capital do estado.</string>
     <string name="message_snack">Please grant Notification permission from App Settings</string>
+    <string name="download_image">Baixar imagem</string>
+    <string name="canal_download">Download</string>
 </resources>

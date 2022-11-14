@@ -25,6 +25,10 @@ fun Context.toast(@StringRes message: Int) {
     Toast.makeText(this, message, Toast.LENGTH_LONG).show()
 }
 
+fun Context.toast(message: String) {
+    Toast.makeText(this, message, Toast.LENGTH_LONG).show()
+}
+
 fun Context.notificationBuilder(channelId: String, block: (NotificationCompat.Builder.() -> Unit)? = null): NotificationCompat.Builder {
     val builder = NotificationCompat.Builder(this, channelId)
     if (block != null) {
@@ -37,6 +41,7 @@ fun Context.notification(channelId: String, block: (NotificationCompat.Builder.(
     val builder = notificationBuilder(channelId, block)
     return builder.build()
 }
+
 
 val Context.notificationManager: NotificationManager
     get() = getSystemService()!!
