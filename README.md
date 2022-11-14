@@ -8,7 +8,7 @@ Use this study guide to prepare for the Google Associate Android Developer Certi
 
 # Topicos
 
-- [Android core](https://developers.google.com/certification/associate-android-developer/study-guide/android-core)
+- [Android core](https://developers.google.com/certification/associate-android-developer/study-guide/android-core) - OK
 - [User interface](https://developers.google.com/certification/associate-android-developer/study-guide/user-interface)
 - [Data management](https://developers.google.com/certification/associate-android-developer/study-guide/data-management)
 - [Debugging](https://developers.google.com/certification/associate-android-developer/study-guide/debugging)
